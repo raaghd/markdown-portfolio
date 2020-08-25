@@ -1,1 +1,1 @@
-[GitHub]https://github.com/raaghd/markdown-portfolio/pull/3
+[GitHub](https://github.com/raaghd)
